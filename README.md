@@ -1,2 +1,2 @@
-# Git_workspace
-My personal project
+Christine Wakuthii 
+Hello there! Welcome to my portfolio. I am a passionate software engineer who loves coding and assisting others when they encounter coding challenges. My enthusiasm for technology drives me to continually explore new design ideas and stay updated with the latest developments in the tech world. Beyond coding, I have a variety of hobbies that keep me engaged. I enjoy gaming, playing football, and I'm an avid fan of watching football matches. It's all part of the excitement of life! Wouldn't it be fantastic if I could create a stunning website for you, absolutely free of charge? You'd only need to treat me with a delightful cup of coffee! 😁☕️
